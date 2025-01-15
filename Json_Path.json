@@ -4,6 +4,7 @@
         {
             "Phone Number" : "2222-333-44",
             "city" : ["Guadalajara","Tlaquepaque","Tonala"],
+            "Adding info for git" : "1234",
             "Address" : 
             [
                 {
@@ -21,5 +22,6 @@
             ],   
             "Landline" : "000-999-88",
             "Mobile" : "444-444-555" 
+            "Scalado" : "d"
         }
 }
