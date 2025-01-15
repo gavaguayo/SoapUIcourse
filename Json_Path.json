@@ -1,0 +1,25 @@
+{
+    "Name" : "Guadalajara",
+    "Data" : 
+        {
+            "Phone Number" : "2222-333-44",
+            "city" : ["Guadalajara","Tlaquepaque","Tonala"],
+            "Address" : 
+            [
+                {
+                    "Street Name" : "Zona 0",
+                    "House Number": 
+                    [
+                        "Java",
+                        "Python",
+                        "SQL"
+                    ],
+                    "Severo" : "Escencia",
+                    "Expere" : "Nula",
+                    "Caos" : "Mortal"
+                }
+            ],   
+            "Landline" : "000-999-88",
+            "Mobile" : "444-444-555" 
+        }
+}
